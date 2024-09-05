@@ -1,6 +1,6 @@
 <h1>TV Rater Challenge</h1>
 
-Analyse the data structure of the csv file and create an appropriate OOP solution to represent the data- use class(es), constructors, getters , setters etc... 
+Analyse the data structure of the csv file and create an appropriate OOP solution to represent the data- use class(es), constructors, getters, setters etc... 
 
 Output using your OOP solution each programme's full details to screen i.e. 
 
